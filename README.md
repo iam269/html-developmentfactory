@@ -8,6 +8,10 @@ This project represents the example from the Introduction to HTML course at Deve
 - `style.css` - CSS file for styling 
 - `about.html` - About page 
 
+## Live Demo
+
+View the project live at: [https://iam269.github.io/html-developmentfactory/](https://iam269.github.io/html-developmentfactory/)
+
 ## How to Run
 
 Open the `index.html` file in any web browser to view the examples.
