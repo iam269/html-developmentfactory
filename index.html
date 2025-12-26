@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Proiect HTML complet">
+    <meta name="author" content="Aurel Ioniță">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Proiect HTML</title>
+
+    <!-- CSS extern -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- CSS direct în HTML -->
+    <style>
+        .inline-css {
+            color: darkred;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header, Nav -->
+    <header>
+        <h1>Titlu Principal</h1>
+        <nav>
+            <a href="index.html">Acasă</a>
+            <a href="about.html">Despre</a>
+        </nav>
+    </header>
+
+    <hr>
+
+    <!-- Paragrafe, bold -->
+    <p>Acesta este un <strong>paragraf</strong> de test.</p>
+    <p class="inline-css">Text cu CSS direct.</p>
+
+    <!-- Liste -->
+    <h2>Liste</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <ol>
+        <li>Primul</li>
+        <li>Al doilea</li>
+    </ol>
+
+    <!-- Abrevieri -->
+    <p><abbr title="HyperText Markup Language">HTML</abbr> este limbaj web.</p>
+
+    <!-- Div & span -->
+    <div class="box">
+        Text într-un <span>span</span>
+    </div>
+
+    <!-- Butoane -->
+    <button onclick="afiseazaMesaj()">Click</button>
+
+    <!-- Input -->
+    <h2>Formular</h2>
+    <input type="text" placeholder="Nume">
+    <input type="email" placeholder="Email">
+    <input type="password" placeholder="Parolă">
+    <input type="checkbox"> Accept termenii
+    <br><br>
+
+    <!-- Textarea -->
+    <textarea placeholder="Mesaj"></textarea>
+
+    <!-- Tabel -->
+    <h2>Tabel</h2>
+    <table>
+        <tr>
+            <th>Nume</th>
+            <th>Vârstă</th>
+        </tr>
+        <tr>
+            <td>Aurel</td>
+            <td>15</td>
+        </tr>
+    </table>
+
+    <!-- Iframe -->
+    <h2>Iframe</h2>
+    <iframe src="https://www.wikipedia.org" width="300" height="200"></iframe>
+
+    <!-- Încorporare alte elemente -->
+    <h2>Video</h2>
+    <video controls width="300">
+        <source src="video.mp4" type="video/mp4">
+    </video>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025</p>
+    </footer>
+
+    <!-- JS extern -->
+    <script src="js/script.js"></script>
+
+    <!-- JS direct -->
+    <script>
+        console.log("JS direct în HTML");
+    </script>
+
+</body>
+</html>
