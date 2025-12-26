@@ -1,12 +1,12 @@
-# HTML Development Factory - Introduction to HTML
+# HTML Development Factory - Introduction to HTML 🌐
 
-This project represents the example from the Introduction to HTML course at Development Factory. It contains a simple HTML page that demonstrates the basic elements of the HTML language, including page structure, headings, paragraphs, lists, links, and other fundamental elements.
+This project represents the example from the Introduction to HTML course at Development Factory. It contains a simple HTML page 📄 that demonstrates the basic elements of the HTML language 🏗️, including page structure, headings, paragraphs, lists, links, and other fundamental elements.
 
-## Contents
+## Contents 📁
 
-- `index.html` - Start page 
-- `style.css` - CSS file for styling 
-- `about.html` - About page 
+- `index.html` - Start page 🏠
+- `style.css` - CSS file for styling 🎨
+- `about.html` - About page ℹ️
 
 ## Live Demo
 
