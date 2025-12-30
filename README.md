@@ -1,6 +1,6 @@
 # HTML Development Factory - Introduction to HTML 🌐
 
-This project represents the example from the Introduction to HTML course at Development Factory. It contains a simple HTML page 📄 that demonstrates the basic elements of the HTML language 🏗️, including page structure, headings, paragraphs, lists, links, and other fundamental elements.
+This project represents the example from [the Introduction to HTML course](https://learn.developmentfactory.ro/introducere-in-html) at Development Factory. It contains a simple HTML page 📄 that demonstrates the basic elements of the HTML language 🏗️, including page structure, headings, paragraphs, lists, links, and other fundamental elements.
 
 ## Contents 📁
 
